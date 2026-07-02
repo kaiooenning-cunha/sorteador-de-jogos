@@ -1,0 +1,15 @@
+.jogo{
+    background-color: #0F3D2E;
+}
+
+#tabela{
+    background-color: #1E293B;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: #0F3D2E;
+    color: #FFFFFF;
+}
